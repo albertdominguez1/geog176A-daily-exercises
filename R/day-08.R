@@ -1,5 +1,6 @@
 # Albert Dominguez
 # August 16, 2020
+# Code produces a graph illustrating new reported cases by day in Oregon
 
 state.of.interest = "Oregon"
 covid %>%
